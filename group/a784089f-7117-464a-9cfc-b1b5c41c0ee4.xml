@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>a784089f-7117-464a-9cfc-b1b5c41c0ee4</versionUuid>
+    <group>
+        <name>CS Administrators1</name>
+        <securityMap>SECURITYMAP_TEAM</securityMap>
+        <uuid>a784089f-7117-464a-9cfc-b1b5c41c0ee4</uuid>
+        <groupTypeUuid>SYSTEM_GROUP_TYPE_CUSTOM</groupTypeUuid>
+        <description>Assigns Administrator permissions to users for objects in the application</description>
+        <delegatedCreation>false</delegatedCreation>
+        <memberPolicy>MEMBERPOLICY_CLOSED</memberPolicy>
+        <viewingPolicy>VIEWINGPOLICY_LOW</viewingPolicy>
+        <attributes/>
+    </group>
+    <members>
+        <users/>
+        <groups/>
+    </members>
+    <admins>
+        <users/>
+        <groups>
+            <groupUuid>a784089f-7117-464a-9cfc-b1b5c41c0ee4</groupUuid>
+        </groups>
+    </admins>
+    <ruleSet/>
+    <history>
+        <historyInfo versionUuid="a784089f-7117-464a-9cfc-b1b5c41c0ee4"/>
+    </history>
+</groupHaul>
